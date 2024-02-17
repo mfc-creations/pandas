@@ -1,0 +1,1 @@
+Dataframe is a main object in Pandas. It is used to represent data with rows and columns (tabular or excel spreadsheet like data)
